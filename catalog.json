@@ -1,0 +1,16 @@
+[
+  {"line":"Mogambo khush hua!","lang":"hi","song":"Jumma Chumma De De","start":2,"drop":6000},
+  {"line":"Kitne aadmi the?","lang":"hi","song":"Mehbooba Mehbooba Sholay","start":2,"drop":6000},
+  {"line":"Picture abhi baaki hai mere dost!","lang":"hi","song":"Badtameez Dil","start":4,"drop":6000},
+  {"line":"Bade bade deshon mein aisi chhoti chhoti baatein hoti rehti hain","lang":"hi","song":"Tujhe Dekha To Ye Jana Sanam","start":3,"drop":6000},
+  {"line":"Pushpa naam sunke flower samjhe kya? Fire hai main!","lang":"hi","song":"Oo Antava Pushpa","start":4,"drop":6000},
+  {"line":"Rishte mein toh hum tumhare baap lagte hain, naam hai Shahenshah","lang":"hi","song":"Jumma Chumma De De Amitabh","start":2,"drop":6000},
+  {"line":"I'll be back.","lang":"en","song":"Eye of the Tiger Survivor","start":3,"drop":6000},
+  {"line":"I am Iron Man.","lang":"en","song":"Back in Black AC/DC","start":3,"drop":6000},
+  {"line":"Why so serious?","lang":"en","song":"Smooth Criminal Michael Jackson","start":4,"drop":6000},
+  {"line":"May the Force be with you.","lang":"en","song":"Thunderstruck AC/DC","start":3,"drop":6000},
+  {"line":"Chak de phatte!","lang":"pa","song":"Mundian To Bach Ke Panjabi MC","start":3,"drop":6000},
+  {"line":"Oye hoye hoye!","lang":"pa","song":"Brown Munde AP Dhillon","start":4,"drop":6000},
+  {"line":"Balle balle!","lang":"pa","song":"Tunak Tunak Tun Daler Mehndi","start":3,"drop":6000},
+  {"line":"Jatt da muqabla!","lang":"pa","song":"Lahore Guru Randhawa","start":4,"drop":6000}
+]
